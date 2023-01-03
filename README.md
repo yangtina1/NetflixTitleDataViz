@@ -1,6 +1,7 @@
 # Netflix Movies and TV Shows Analysis and Visualization 
 Data Source: Kaggle https://www.kaggle.com/datasets/shivamb/netflix-shows
-Note: This is an assignment for ISOM675 Data Visualization at Emory Master of Science in Business Analytics 
+
+This is an assignment for ISOM675 Data Visualization at Emory Master of Science in Business Analytics 
 
 The dataset is about all the listings of movies and TV shows on Netflix, with information such as release year, year added on Netflix, producing countries, actors, directors, etc. In this visualization, it consists of 4 different charts. Firstly, to quickly give readers an overview, I used a simple pie chart to illustrate the distribution of movie and TV show. Although pie chart is sometimes not preferred, there are only two categories here. One can clearly see the ratio of the two from this pie chart. Next, I continued to use the same color codes to represent Movie and TV show, and further plotted the countries where the shows were produced. I used a horizontal bar chart as it clearly shows captures the number of listings, and the distribution of movie and TV show can be seen by the stacked bar design as well.
 
