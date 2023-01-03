@@ -1,1 +1,9 @@
-# NetflixTitleDataViz
+# Netflix Movies and TV Shows Analysis and Visualization 
+Data Source: Kaggle https://www.kaggle.com/datasets/shivamb/netflix-shows
+Note: This is an assignment for ISOM675 Data Visualization at Emory Master of Science in Business Analytics 
+
+The dataset is about all the listings of movies and TV shows on Netflix, with information such as release year, year added on Netflix, producing countries, actors, directors, etc. In this visualization, it consists of 4 different charts. Firstly, to quickly give readers an overview, I used a simple pie chart to illustrate the distribution of movie and TV show. Although pie chart is sometimes not preferred, there are only two categories here. One can clearly see the ratio of the two from this pie chart. Next, I continued to use the same color codes to represent Movie and TV show, and further plotted the countries where the shows were produced. I used a horizontal bar chart as it clearly shows captures the number of listings, and the distribution of movie and TV show can be seen by the stacked bar design as well.
+
+To analyze the release year and how many shows were added each year, I created two plots with continuous year as X axis. I added trend lines on both charts so readers can see the trend over time easily. There are only the lines but no bars in the Release Year chart, as the chart contains a larger range of years; adding bars will create unnecessary visual noise. Overall, Netflix tended to add movies or shows that were from recent years, and more and more programs were available on the platform. Finally, the four charts share the same color codes and thus only one legend is needed.
+
+From all these graphs, we can easily understand an overview of Netflix’s movies and shows in the past few years. There are some additional columns, such as categories and actors, available in the dataset for further analysis. If the user rating data is made available, it is also possible to build a model to predict the ratings with given attributes.
